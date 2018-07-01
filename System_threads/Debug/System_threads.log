@@ -1,0 +1,9 @@
+﻿  Building 'System_threads' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\System_threads.inf
+  Stamping [Version] section with DriverVer=07/02/2018,0.2.22.443
+  Threads.c
+c:\users\dhruv\source\repos\system_threads\system_threads\threads.c(7): error C2220: warning treated as error - no 'object' file generated
+c:\users\dhruv\source\repos\system_threads\system_threads\threads.c(7): warning C4100: 'DriverObject': unreferenced formal parameter
+c:\users\dhruv\source\repos\system_threads\system_threads\threads.c(28): warning C4102: 'EXIT': unreferenced label
+c:\users\dhruv\source\repos\system_threads\system_threads\threads.c(16): warning C4100: 'Context': unreferenced formal parameter
+c:\users\dhruv\source\repos\system_threads\system_threads\threads.c(35): warning C4100: 'RegistryPath': unreferenced formal parameter
